@@ -1,0 +1,7 @@
+### 📄 SQL Query:
+```sql 
+SELECT [Product_Category], 
+SUM(Sales) AS Total_Sales FROM [dbo].[DSA_KMS_Sql_Case_Study_Project] 
+GROUP BY [Product_Category] 
+ORDER BY SUM(Sales) DESC; 
+``` 
