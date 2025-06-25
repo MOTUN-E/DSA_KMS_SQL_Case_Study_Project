@@ -1,2 +1,2 @@
-# DSA_KMS_SQL_Case_Study_Project
-DSA Exploratory Data Analysis Project using SQL for KMS Inventory as Case Study 
+# DSA SQL Project
+ DSA Exploratory Data Analysis Project for SQL using Kultra Mega Stores Inventory as Case Study 
